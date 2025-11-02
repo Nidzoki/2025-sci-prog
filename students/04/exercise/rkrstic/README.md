@@ -1,4 +1,4 @@
-# Top 10 PlayStation Games In Croatia Scraping Informant
+# Top 10 PlayStation Games In Croatia - Scraping Informant
 
 ## Overview
 This project aims to provide its users with easy-to-obtain and FUN information regarding the top 10 games on PlayStation in Croatia. Freshly scraped from the official PlayStation store.
